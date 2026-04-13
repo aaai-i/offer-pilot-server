@@ -1,10 +1,10 @@
-package org.example.offerpilotserver;
+package org.example.offerpilot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OfferPilotServerApplicationTests {
+class OfferPilotApplicationTests {
 
     @Test
     void contextLoads() {
